@@ -1,8 +1,9 @@
 ## Olá! Eu sou André Lucas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- 🔭 Estudando Ánalise e Desenvolvimento de Sistemas na UP.
+- 🏡 Residente de Curitiba-PR.
+- 👨‍💻 Aprendendo sobre banco de dados e linguagem C.
+- 🔎 Procurando estágio.
 
 <div>
   <a href="https://github.com/lucasdnx">
