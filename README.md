@@ -5,6 +5,12 @@
 - 👨‍💻 Aprendendo sobre banco de dados e linguagem C.
 - 🔎 Procurando estágio.
 
+<h3>Minhas Skills</h3>
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
 <div>
   <a href="https://github.com/lucasdnx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdnx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
