@@ -11,11 +11,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<div>
-  <a href="https://github.com/lucasdnx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdnx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdnx&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+[![LucasDNX GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=lucasdnx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucasdnx/github-readme-stats#gh-dark-mode-only)
+[![LucasDNX GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=lucasdnx&show_icons=true&theme=defaut#gh-light-mode-only)](https://github.com/lucasdnx/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdnx&theme=dark)](https://github.com/lucasdnx/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
