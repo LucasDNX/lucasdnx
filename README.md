@@ -2,8 +2,8 @@
 
 - 🔭 Estudando Ánalise e Desenvolvimento de Sistemas na UP.
 - 🏡 Residente de Curitiba-PR.
-- 👨‍💻 Aprendendo sobre banco de dados e linguagem C.
-- 🔎 Procurando estágio.
+- 👨‍💻 Avançando conhecimentos sobre C# e Banco de Dados.
+- 🏢 Estagiario de Desenvolvimento na Employer RH .
 
 <h3>Minhas Skills</h3>
 
