@@ -1,9 +1,9 @@
 ## Olá! Eu sou André Lucas
 
-- 🔭 Estudando Ánalise e Desenvolvimento de Sistemas na UP.
-- 🏡 Residente de Curitiba-PR.
-- 👨‍💻 Avançando conhecimentos sobre C# e Banco de Dados.
-- 🏢 Estagiario de Desenvolvimento na Employer RH .
+- 🔭 Formato em Ánalise e Desenvolvimento de Sistemas na Uiversidade Positivo.
+- 🏢 Desenvolvedor Jr. na Employer RH.
+- 🏡 Residente de Colombo-PR.
+- 👨‍💻 Avançando sobre inteligência articial.
 
 <h3>Minhas Skills</h3>
 
