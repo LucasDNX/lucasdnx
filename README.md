@@ -1,6 +1,6 @@
 ## Olá! Eu sou André Lucas
 
-- 🔭 Formato em Ánalise e Desenvolvimento de Sistemas na Uiversidade Positivo.
+- 🔭 Formado em Ánalise e Desenvolvimento de Sistemas na Uiversidade Positivo.
 - 🏢 Desenvolvedor Jr. na Employer RH.
 - 🏡 Residente de Colombo-PR.
 - 👨‍💻 Avançando sobre inteligência articial.
